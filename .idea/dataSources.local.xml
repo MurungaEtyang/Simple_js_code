@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal" created-in="WS-221.5591.52">
+    <data-source name="social@localhost" uuid="0b8583dc-728f-418f-b058-0a61c56d6375">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>murunga</user-name>
+      <schema-mapping />
+      <ssl-config>
+        <enabled>true</enabled>
+        <mode>REQUIRE</mode>
+      </ssl-config>
+    </data-source>
+    <data-source name="database@localhost" uuid="840b9cc4-4927-4ad7-9ac1-a336b35d3c8b">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="MYSQL" exact-version="0" />
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-mapping />
+    </data-source>
+  </component>
+</project>
